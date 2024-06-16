@@ -2,8 +2,8 @@
 - 👀 I’m interested in ...learning web development
 - 🌱 I’m currently learning ...html,css,js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...You dont
+- 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...I'm a noob
 
 <!---
